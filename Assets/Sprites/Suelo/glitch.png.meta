@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: 1a0b3349a73b2204e9a202774a73dc83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5111763290514371741
+    second: glitch_0
+  - first:
+      213: 4049783976283804830
+    second: glitch_1
+  - first:
+      213: 7948909268737746870
+    second: glitch_2
+  - first:
+      213: 7706828099878268606
+    second: glitch_3
+  - first:
+      213: -2025980553030345414
+    second: glitch_4
+  - first:
+      213: -946584376725564186
+    second: glitch_5
+  - first:
+      213: 5317201170962092252
+    second: glitch_6
+  - first:
+      213: -2152391632418235080
+    second: glitch_7
+  - first:
+      213: -446359788740480261
+    second: glitch_8
+  - first:
+      213: 2951657047934741109
+    second: glitch_9
+  - first:
+      213: -8305226194242851794
+    second: glitch_10
+  - first:
+      213: -3440503744643670670
+    second: glitch_11
+  - first:
+      213: 5737269228555868713
+    second: glitch_12
+  - first:
+      213: -2791183181195782920
+    second: glitch_13
+  - first:
+      213: -6220274655343119171
+    second: glitch_14
+  - first:
+      213: -4717311926547316984
+    second: glitch_15
+  - first:
+      213: -4530670916316005079
+    second: glitch_16
+  - first:
+      213: -5891005621308799091
+    second: glitch_17
+  - first:
+      213: 9011007665815389606
+    second: glitch_18
+  - first:
+      213: -5304729432336198174
+    second: glitch_19
+  - first:
+      213: 8512615539084120747
+    second: glitch_20
+  - first:
+      213: 8737394788294948266
+    second: glitch_21
+  - first:
+      213: 5812646858620929680
+    second: glitch_22
+  - first:
+      213: -5717434344601364894
+    second: glitch_23
+  - first:
+      213: 7054196635618926806
+    second: glitch_24
+  - first:
+      213: -738585648544885409
+    second: glitch_25
+  - first:
+      213: 8675226567359064192
+    second: glitch_26
+  - first:
+      213: -5387376345706805020
+    second: glitch_27
+  - first:
+      213: 5647971067926712528
+    second: glitch_28
+  - first:
+      213: 4610477750451527396
+    second: glitch_29
+  - first:
+      213: -9059308434476474390
+    second: glitch_30
+  - first:
+      213: -9131613542265335865
+    second: glitch_31
+  - first:
+      213: 7022984580608581241
+    second: glitch_32
+  - first:
+      213: 3420724581320773606
+    second: glitch_33
+  - first:
+      213: 6078721590642364770
+    second: glitch_34
+  - first:
+      213: 5770965035326616234
+    second: glitch_35
+  - first:
+      213: -618759926656979613
+    second: glitch_36
+  - first:
+      213: 3312915130404551497
+    second: glitch_37
+  - first:
+      213: -9174433767061203135
+    second: glitch_38
+  - first:
+      213: 4734510518927997279
+    second: glitch_39
+  - first:
+      213: -6476546279662345219
+    second: glitch_40
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: glitch_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 526
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94bdf221a1a0f640800000000000000
+      internalID: 5111763290514371741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 367
+        width: 432
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94177bd119b33830800000000000000
+      internalID: 4049783976283804830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 576
+        width: 30
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b76ce26dd2305e60800000000000000
+      internalID: 7948909268737746870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_3
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 595
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe2e36035724fa60800000000000000
+      internalID: 7706828099878268606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_4
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 631
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dd6cecb6542e3e0800000000000000
+      internalID: -2025980553030345414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_5
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 597
+        width: 26
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4965b468e0dd2f0800000000000000
+      internalID: -946584376725564186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_6
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 628
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd09c721b4e7ac940800000000000000
+      internalID: 5317201170962092252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_7
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 599
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d1034d63b2122e0800000000000000
+      internalID: -2152391632418235080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 288
+        width: 120
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db478ea48252da9a0800000000000000
+      internalID: -6220274655343119171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 452
+        width: 31
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ffe63dbcdb88eb0800000000000000
+      internalID: -4717311926547316984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_16
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 448
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d7ace5ec2df11c0800000000000000
+      internalID: -4530670916316005079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_17
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 448
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d874f0c6991fe3ea0800000000000000
+      internalID: -5891005621308799091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_18
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 448
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a58f3dcab78d0d70800000000000000
+      internalID: 9011007665815389606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_19
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 448
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e59a0cdfa0d166b0800000000000000
+      internalID: -5304729432336198174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_20
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 463
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba254942bb2e22670800000000000000
+      internalID: 8512615539084120747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_21
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 451
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa57baa6446714970800000000000000
+      internalID: 8737394788294948266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_22
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 361
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09604ec658baaa050800000000000000
+      internalID: 5812646858620929680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_23
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 357
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266da6f71c797a0b0800000000000000
+      internalID: -5717434344601364894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_24
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 363
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d062d1277a85e160800000000000000
+      internalID: 7054196635618926806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_25
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 362
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55d74e044400c5f0800000000000000
+      internalID: -738585648544885409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_26
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 366
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088e7758998946870800000000000000
+      internalID: 8675226567359064192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 171
+        width: 116
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8cdc2d1c13c35b0800000000000000
+      internalID: -5387376345706805020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_36
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 223
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d2d520029b967f0800000000000000
+      internalID: -618759926656979613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_38
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 121
+        width: 120
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147d7fad81ddda080800000000000000
+      internalID: -9174433767061203135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_39
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 20
+        width: 140
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59bd028b3c54b140800000000000000
+      internalID: 4734510518927997279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitch_40
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 443
+        width: 28
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3295d097fae16a0800000000000000
+      internalID: -6476546279662345219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 356b3359c858eb346a54080f318df380
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7016007736916064454
+    second: sprite parado_0
+  - first:
+      213: -7411510752349677835
+    second: sprite parado_1
+  - first:
+      213: 1659355529184146883
+    second: sprite parado_2
+  - first:
+      213: -2457766155434692304
+    second: sprite parado_3
+  - first:
+      213: 1970922652224209628
+    second: sprite parado_4
+  - first:
+      213: 2140713773175761403
+    second: sprite parado_5
+  - first:
+      213: 5036946036447906524
+    second: sprite parado_6
+  - first:
+      213: 5603651938534891243
+    second: sprite parado_7
+  - first:
+      213: -4203540094005209490
+    second: sprite parado_8
+  - first:
+      213: -7445221967871833484
+    second: sprite parado_9
+  - first:
+      213: -1642066780053701046
+    second: sprite parado_10
+  - first:
+      213: 4001433416985619094
+    second: sprite parado_11
+  - first:
+      213: -4289777232589767869
+    second: sprite parado_12
+  - first:
+      213: 3141631805160221675
+    second: sprite parado_13
+  - first:
+      213: 3563879904611739926
+    second: sprite parado_14
+  - first:
+      213: -6799739394768361449
+    second: sprite parado_15
+  - first:
+      213: 850320107689521776
+    second: sprite parado_16
+  - first:
+      213: 5361581200429186370
+    second: sprite parado_17
+  - first:
+      213: 580226489229445467
+    second: sprite parado_18
+  - first:
+      213: 5328535201253258029
+    second: sprite parado_19
+  - first:
+      213: -4859488981908057905
+    second: sprite parado_20
+  - first:
+      213: -7561653191240470094
+    second: sprite parado_21
+  - first:
+      213: 4785566150932418936
+    second: sprite parado_22
+  - first:
+      213: -8642991646466396221
+    second: sprite parado_23
+  - first:
+      213: -7034731021021958710
+    second: sprite parado_24
+  - first:
+      213: 6221877910217800290
+    second: sprite parado_25
+  - first:
+      213: 7374239272786844778
+    second: sprite parado_26
+  - first:
+      213: 8088268774653666049
+    second: sprite parado_27
+  - first:
+      213: 9166927633496747637
+    second: sprite parado_28
+  - first:
+      213: -7072793132708462357
+    second: sprite parado_29
+  - first:
+      213: 4878204754061359507
+    second: sprite parado_30
+  - first:
+      213: -5835977731667201021
+    second: sprite parado_31
+  - first:
+      213: 2533209922152797094
+    second: sprite parado_32
+  - first:
+      213: -6942632068361687748
+    second: sprite parado_33
+  - first:
+      213: 2065642005138881960
+    second: sprite parado_34
+  - first:
+      213: 6989032110475968567
+    second: sprite parado_35
+  - first:
+      213: -9146274402892341993
+    second: sprite parado_36
+  - first:
+      213: -3359950687911251844
+    second: sprite parado_37
+  - first:
+      213: 4291146284150566244
+    second: sprite parado_38
+  - first:
+      213: 5146678205054006188
+    second: sprite parado_39
+  - first:
+      213: 9015602412208007004
+    second: sprite parado_40
+  - first:
+      213: 5885126996756969373
+    second: sprite parado_41
+  - first:
+      213: 2329106744910132562
+    second: sprite parado_42
+  - first:
+      213: 8432201523274249673
+    second: sprite parado_43
+  - first:
+      213: 3272091482098763162
+    second: sprite parado_44
+  - first:
+      213: -7184687774069667247
+    second: sprite parado_45
+  - first:
+      213: 6815944556034632116
+    second: sprite parado_46
+  - first:
+      213: 1142114262955520591
+    second: sprite parado_47
+  - first:
+      213: 8650790032673964782
+    second: sprite parado_48
+  - first:
+      213: 3699188376520013352
+    second: sprite parado_49
+  - first:
+      213: 7209652373908284960
+    second: sprite parado_50
+  - first:
+      213: 6046783156744980755
+    second: sprite parado_51
+  - first:
+      213: -7981263510158536817
+    second: sprite parado_52
+  - first:
+      213: 4469520663500177297
+    second: sprite parado_53
+  - first:
+      213: 3690484158609035604
+    second: sprite parado_54
+  - first:
+      213: 1204613635189703
+    second: sprite parado_55
+  - first:
+      213: 2649640123629792968
+    second: sprite parado_56
+  - first:
+      213: -4483349781628760489
+    second: sprite parado_57
+  - first:
+      213: -9148230286627315749
+    second: sprite parado_58
+  - first:
+      213: 2774235657069810607
+    second: sprite parado_59
+  - first:
+      213: -1870356895862229006
+    second: sprite parado_60
+  - first:
+      213: -877560477669993334
+    second: sprite parado_61
+  - first:
+      213: 9075235824057302722
+    second: sprite parado_62
+  - first:
+      213: -8946026606437338288
+    second: sprite parado_63
+  - first:
+      213: -2341167030119701928
+    second: sprite parado_64
+  - first:
+      213: 6695038565371383959
+    second: sprite parado_65
+  - first:
+      213: -4349553280221236235
+    second: sprite parado_66
+  - first:
+      213: 2566321698420603159
+    second: sprite parado_67
+  - first:
+      213: -6212546644336791794
+    second: sprite parado_68
+  - first:
+      213: 1442032449924554781
+    second: sprite parado_69
+  - first:
+      213: 600433110995265944
+    second: sprite parado_70
+  - first:
+      213: 1340431908153251114
+    second: sprite parado_71
+  - first:
+      213: -1008424660138086535
+    second: sprite parado_72
+  - first:
+      213: 8998690803053513185
+    second: sprite parado_73
+  - first:
+      213: -5200461623632755035
+    second: sprite parado_74
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite parado_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4221
+        width: 434
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c836444ddddd5160800000000000000
+      internalID: 7016007736916064454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite parado_1
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 4221
+        width: 432
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f695351d36052990800000000000000
+      internalID: -7411510752349677835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite parado_2
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 4221
+        width: 434
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5f919ef07370710800000000000000
+      internalID: 1659355529184146883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite parado_13
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 3699
+        width: 434
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebe4a15b71599b20800000000000000
+      internalID: 3141631805160221675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite parado_14
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 3699
+        width: 434
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619298814e1757130800000000000000
+      internalID: 3563879904611739926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite parado_62
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 1084
+        width: 434
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceb5d936e6b1fd70800000000000000
+      internalID: 9075235824057302722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
